@@ -1,22 +1,22 @@
 {
   "products": [
-    {
-      "name": "iphone15",
-      "price": 1000
-    },
-    {
-      "name": "iphone14",
-      "price": 800
-    }
+    { "name": "iphone15", "price": 1000 },
+    { "name": "iphone14", "price": 800 }
   ],
   "users": [
-    {
-      "name": "Ann",
-      "age": 27
-    },
-    {
-      "name": "John",
-      "age": 29
-    }
+    { "name": "Ann", "age": 27 },
+    { "name": "John", "age": 29 },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    { "name": "Ann", "age": 27 }
   ]
 }
